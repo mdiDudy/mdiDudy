@@ -43,15 +43,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdi&show_icons=true&theme=github_dark" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdi&theme=github-dark" />
-</p>
-
----
 
 ### 🔗 Collaborations
 
