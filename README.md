@@ -1,61 +1,54 @@
-<h1 align="center">Hi there, I'm Mdi 👋</h1>
-<p align="center"><strong>AI Learner • Python Dev • CEO @ Team Void</strong></p>
+<h1 align="center">🚀 Hey, I'm Mdi</h1>
+<p align="center">
+  <strong>Python Dev | AI Enthusiast | CEO of Team Void</strong><br>
+  <em>Building brains with code 🧠</em>
+</p>
 
 ---
 
-### 🧠 About Me
+### 🧠 Who Am I?
 
-- 👨‍💻 Passionate about **Python**, **Artificial Intelligence**, and the **Math behind AI**
-- 📈 Currently expanding my knowledge in **AI** and **Data Science**
-- 🚀 CEO of **Team Void**, a development team building tools, bots, and systems that make a difference
-- 🤝 Collaborating with [Developer Void](https://www.solutionby.me/) on advanced **Discord bot development**
-- 🎮 I use **HTML, CSS, and JavaScript** — but just for fun, not for serious web development
-- 🎯 Goal: Build meaningful, intelligent tools for students and developers alike
-
----
-
-### 🧠 Areas of Interest
-
-- 🤖 AI & Machine Learning
-- 🔍 AI Mathematics (Linear Algebra, Probability, Calculus)
-- 📊 Data Science & Visualization
-- 🧠 Neural Networks
-- 🛠️ Discord Bot Development
-- 📈 Algorithms & Data Structures
+- 👑 CEO of **Team Void** — a creative dev group building bots, tools & platforms
+- 🤝 Collaborating with [Developer Void](https://www.solutionby.me/) on next-gen **Discord bots**
+- 🧠 Exploring the world of **AI**, **machine learning**, and the **math behind it**
+- 📊 Currently expanding my knowledge in **AI algorithms** and **Data Science**
+- 🎨 I know **HTML**, **CSS**, and **JavaScript** — just for fun and creative experiments
+- 🎯 I love solving problems with Python and turning logic into real-world tools
 
 ---
 
-### 🛠️ Tools & Technologies
+### ⚙️ Technologies & Tools I Use
 
-![Python](https://img.shields.io/badge/-Python-181717?style=for-the-badge&logo=python)
-![Pandas](https://img.shields.io/badge/-Pandas-130754?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Discord Bots](https://img.shields.io/badge/-Discord_Bots-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-
-<!-- Fun stack -->
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,numpy,pandas,linux,git,html,css,js,discord" />
+</p>
 
 ---
 
+### 🌟 What I Care About
 
-### 🔗 Collaborations
-
-- 🤝 Working with [Developer Void](https://www.solutionby.me/) on a powerful Discord bot system
-- 🧠 Leading **Team Void**, focused on building open-source tools, bots, and educational platforms
-
----
-
-### 💬 Let's Connect
-
-- 💬 Discord: `_mdi`
-- 🌍 More coming soon...
+- 🤖 **AI & ML Projects** — from theory to real-world apps  
+- 🧠 **AI Math** — Linear Algebra, Calculus, Probability  
+- 🧰 **Automation & Bots** — especially on Discord  
+- 📚 **Learning by building** — projects are my playground  
 
 ---
 
-_Thanks for stopping by!_ ⭐
+### 🔗 Featured Collab
+
+> 🎯 Working closely with  
+> [**Developer Void**](https://www.solutionby.me/)  
+> on smart, scalable **Discord bot systems**
+
+---
+
+### 📫 Reach Me
+
+- 🗨️ Discord: `_mdi`
+- 🧪 Projects in the lab... stay tuned 👀
+
+---
+
+<p align="center">
+  <em>"Code isn't just syntax — it's the blueprint for thought."</em>
+</p>
